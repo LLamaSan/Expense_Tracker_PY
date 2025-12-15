@@ -1,0 +1,13 @@
+
+.db# Python
+__pycache__/
+*.pyc
+
+
+venv/
+
+
+expenses.db
+*.db
+
+.DS_Store
