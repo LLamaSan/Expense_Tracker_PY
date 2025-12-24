@@ -18,7 +18,7 @@ A simple full-stack expense tracker built with Python and Flask.
 ## How to Run
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/LLamaSan/Expense_Tracker_PY>
 cd expense-tracker
 python -m venv venv
 source venv/bin/activate
