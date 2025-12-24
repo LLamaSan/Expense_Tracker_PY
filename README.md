@@ -6,6 +6,7 @@ A simple full-stack expense tracker built with Python and Flask.
 - Add expenses
 - View all expenses
 - Delete expenses
+- Get total expenses based on Category
 - Persistent storage using SQLite
 
 ## Tech Stack
